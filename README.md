@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @asallahi05
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C language
+-  :man_technologist: I’m a web developer  
 - 💞️ I’m looking to collaborate on any project
 
 <!---
