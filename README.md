@@ -16,7 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asallahi05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### <img src=""https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="30px">&nbsp;***Languages and tools*** :
+### <img src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="30px">&nbsp;***Languages and tools*** :
 
 
 </p>
