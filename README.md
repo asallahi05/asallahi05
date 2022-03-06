@@ -16,20 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asallahi05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### <img src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="30px">&nbsp;***Languages and tools*** :
-
-
-</p>
-</p aligne = "left">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100"></code>   
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" width="100"></code>
-</p>
-
----
+![pp](https://cdn.lowgif.com/small/451497b85de2a33e-pin-by-lennie-andersson-on-reaktionsgiffar-pinterest-gifs-meme.gif)
 
 
 <!---
