@@ -7,8 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asallahi05&theme=radical)](https://github.com/MartinHeinz/MartinHeinz)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asallahi05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ![pp](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
